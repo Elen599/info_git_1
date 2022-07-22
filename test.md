@@ -7,6 +7,4 @@
 > git add .
 > end
 
-F
-FF
-FFF
+
