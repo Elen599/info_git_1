@@ -3,6 +3,10 @@
 > git init
 
 чтобы добавить файл к комиту, вы используете:
-> git add filename
->git add .
+> git add filename  
+> git add .
+> end
 
+F
+FF
+FFF
