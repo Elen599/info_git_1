@@ -6,4 +6,5 @@
 > git add filename  
 > git add .
 
-
+~~Чтобы создать коммит, введите:~~
+> git commit -m "message"
