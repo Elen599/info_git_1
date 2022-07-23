@@ -20,3 +20,8 @@
 
 2. Чтобы увидеть разницу между текущим и закомиченным файлами, нужно:
 > git diff
+
+Для получения большей мнформации перейдите в ["Справочник по Markdown от Microsoft"](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+
+ 
